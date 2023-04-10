@@ -6,9 +6,9 @@
     🔥 Software Developer grinding hard to make something cool  <br>
     :sparkles: Favorite Tech: JavaScript, React, Typescript, Nodejs ... <br>
     :email:	ashokkumaravel02@gmail.com <br>
-    :art: Portfolio: https://ashokkumaravel.github.io <br>
-    :briefcase: LinkedIn: https://linkedin.com/in/ashokk17 <br>
-                Twitter: https://twitter.com/iashokk?lang=en
+    :art: Portfolio: https://iashokk.github.io/Personal-Website/ <br>
+    :briefcase: LinkedIn: https://www.linkedin.com/in/ashok-k17/ <br>
+                Twitter: https://twitter.com/im_ashxk
   </samp>
 </p>
 
