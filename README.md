@@ -17,11 +17,12 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iashokk&theme=radical)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iashokk&layout=compact&theme=radical)
 
-## Activity Graph
-[![Ashokk's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iashokk&theme=radical)](https://github.com/iashokk)
 
 ## Trophy Case
 [![trophy](https://github-profile-trophy.vercel.app/?username=iashokk&theme=radical&column=7)](https://github.com/iashokk)
+
+## Weekly Development Breakdown
+[![Ashokk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iashokk&theme=radical)](https://wakatime.com/@iashokk)
 
 ## Get in Touch
 Feel free to connect with me:
